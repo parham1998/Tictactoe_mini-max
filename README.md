@@ -1,4 +1,4 @@
-# Tictactoe_alphabeta (warm-up project!)
+# Tictactoe_mini-max (warm-up project!)
 Implementation of Tic tac toe game using mini-max algorithm and alpha-beta pruning with JavaFX
 
 There are 2 java files in src/tictactoe_alphabeta. actually mini-max algorithm with alpha-beta pruning implemented in board.java.
