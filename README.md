@@ -18,5 +18,5 @@ you play as X and the computer plays as O, in fact, after your turn, the compute
 
 I considered two modes, easy and hard! (to make the game easy, I reduced the depth of the mini-max tree to 1, and in the hard scenario, I considered all possible depths of the mini-max tree)
 
-the following animation shows the performance of the mini-max algorithm in the tic tac toe game:
+### the following animation shows the performance of the mini-max algorithm in the tic tac toe game:
 ![tic-tac-toe](https://user-images.githubusercontent.com/85555218/122684629-b6ef0600-d21b-11eb-8857-c51abea60894.gif)
