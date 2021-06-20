@@ -1,4 +1,4 @@
-package tictactoe_alphabeta;
+package tictactoe;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
@@ -10,7 +10,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 
 
-public class Tictactoe_alphabeta extends Application {
+public class main extends Application {
     
     @Override
     public void start(Stage primaryStage) {        

@@ -1,4 +1,4 @@
-package tictactoe_alphabeta;
+package tictactoe;
 
 import java.util.Random;
 import javafx.scene.Group;
@@ -61,7 +61,7 @@ public class board {
         
         btn.setOnMousePressed((MouseEvent event) -> {
             stage.close();
-            Tictactoe_alphabeta t = new Tictactoe_alphabeta();
+            main t = new main();
             t.start(stage);
         });
         

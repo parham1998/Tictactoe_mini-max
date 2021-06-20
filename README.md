@@ -1,7 +1,7 @@
 # Tictactoe_mini-max (warm-up project!)
 Implementation of Tic tac toe game using mini-max algorithm and alpha-beta pruning with JavaFX
 
-There are 2 java files in src/tictactoe_alphabeta. actually mini-max algorithm with alpha-beta pruning implemented in board.java.
+There are 2 java files in src/tictactoe. actually mini-max algorithm with alpha-beta pruning implemented in board.java.
 you play as X and the computer plays as O, in fact, after your turn, the computer will consider all possible scenarios and makes the most optimal move.
 
     mini-max algorithm tries to find the best move in every step by evaluates all the available moves. (see image below)
